@@ -5,7 +5,7 @@
     android:layout_width="match_parent"
     android:layout_height="match_parent"
     tools:context=".MainActivity">
-    <!-- Exercici 2: Calculadora Aarón Aguirre-->
+    <!-- Exercici 3: Fruites Aarón Aguirre -->
 
     <TableRow
         android:layout_width="match_parent"
